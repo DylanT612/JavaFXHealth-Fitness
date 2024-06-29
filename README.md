@@ -1,0 +1,1 @@
+A health and fitness tracker in JavaFX it allows the user to enter a workout/meal and displays total when the user asks for results. Also allows dynamically sorting the corresponding workout/meal by the selected dates.
